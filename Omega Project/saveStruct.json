@@ -1,0 +1,12 @@
+{
+    "player": {
+        "life": 25,
+        "lifeMax": 25,
+        "attackMax": 6,
+        "attackMin": 3,
+        "xp": 0,
+        "level": 5,
+        "shieldLevel": 2,
+        "attackLevel": 3
+    }
+}
